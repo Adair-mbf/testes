@@ -2,4 +2,4 @@
 
 
 
-Obs: apenas o arquivo semaforofinal roda
+Obs: apenas os arquivos semaforo4.hex e semaforofinal.hex rodam
